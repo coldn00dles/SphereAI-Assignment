@@ -1,4 +1,4 @@
-# Sphere AI Assignment
+# Sphere AI Assignment - RAG-based tool for Interviews
 
 ## Features
 - Ingests resume
