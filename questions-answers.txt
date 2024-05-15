@@ -1,0 +1,12 @@
+Enter your question related to the candidate : what is your purpose?
+I am here to provide information and answer questions about the candidate based on the context provided from their resume.
+
+Enter your question related to the candidate : where did the candidate go to for school
+The candidate attended Vellore Institute of Technology, Chennai Campus for their B.Tech in Computer Science and Engineering. They also attended Apeejay School, Nerul for their Class XII and Class X education.
+   
+Enter your question related to the candidate : Give a brief list of all work experience of the candidate, including their role, company name and resppnsibilities at each company
+The candidate worked as a Project Developer at IBM, where they leveraged open source frameworks to build a LLM-powered chatbot for journalism. They implemented the back-end for the chatbot website and curated a database from various news sources. They also collaborated with India Today for the project.
+
+
+Enter your question related to the candidate : Mention the candidate's extra curriculars, if any
+The candidate was a member of IEEE Computer Society from 2022-2023 and a core member of Business Innovation Community-VIT Chennai.
